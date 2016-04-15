@@ -286,7 +286,7 @@
 				
 				<configuration>
 		<driver>com.mysql.jdbc.Driver</driver>
-    	<url>jdbc:mysql://13.76.133.38:3306/emporderdb</url>
+    	<url>jdbc:mysql://10.50.0.179:3306/emporderdb</url>
     	<user>root</user>
     	<password>welcome123</password>
 				</configuration>
